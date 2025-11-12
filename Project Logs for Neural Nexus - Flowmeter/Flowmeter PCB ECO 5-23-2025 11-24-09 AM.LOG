@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U4 Old Footprint=SOT95P280X145-5N New Footprint=SOT95P280X145-6N - duplicate
+Added Pin To Net: NetName=BAT- Pin=U4-6

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Neural Nexus - Flowmeter.PrjPcb]
+   Generated File[Flowmeter-RoundHoles.TXT]
+   Generated File[Flowmeter-SlotHoles.TXT]
+   Generated File[Flowmeter.LDP]
+   Generated File[Flowmeter.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:55:19 PM On 5/31/2025
